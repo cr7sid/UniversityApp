@@ -1,0 +1,36 @@
+com/example/universityapp/BuildConfig.java
+ com.example.universityapp.BuildConfig
+com/example/universityapp/SignUpActivity.java
+ com.example.universityapp.SignUpActivity
+ com.example.universityapp.SignUpActivity$1
+ com.example.universityapp.SignUpActivity$2
+ com.example.universityapp.SignUpActivity$3
+com/example/universityapp/ForgotPasswordActivity.java
+ com.example.universityapp.ForgotPasswordActivity
+com/example/universityapp/SplashScreen.java
+ com.example.universityapp.SplashScreen
+ com.example.universityapp.SplashScreen$1
+com/example/universityapp/MainActivity.java
+ com.example.universityapp.MainActivity
+com/example/universityapp/Models/Users.java
+ com.example.universityapp.Models.Users
+com/example/universityapp/SignInActivity.java
+ com.example.universityapp.SignInActivity
+ com.example.universityapp.SignInActivity$1
+ com.example.universityapp.SignInActivity$2
+ com.example.universityapp.SignInActivity$2$1
+ com.example.universityapp.SignInActivity$3
+com/example/universityapp/OtpRequestActivity.java
+ com.example.universityapp.OtpRequestActivity
+ com.example.universityapp.OtpRequestActivity$1
+com/example/universityapp/OtpVerifyActivity.java
+ com.example.universityapp.OtpVerifyActivity
+ com.example.universityapp.OtpVerifyActivity$1
+ com.example.universityapp.OtpVerifyActivity$2
+ com.example.universityapp.OtpVerifyActivity$2$1
+ com.example.universityapp.OtpVerifyActivity$3
+ com.example.universityapp.OtpVerifyActivity$4
+ com.example.universityapp.OtpVerifyActivity$5
+ com.example.universityapp.OtpVerifyActivity$6
+ com.example.universityapp.OtpVerifyActivity$7
+ com.example.universityapp.OtpVerifyActivity$8
